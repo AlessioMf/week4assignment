@@ -1,0 +1,41 @@
+---
+title: "Complex Calculator App"
+author: "Alessio Maffei"
+date: '`r format(Sys.time(), "%B %d, %Y")`'
+output: ioslides_presentation
+---
+
+##  Introduction
+
+This presentation aims to provide a detailed guide to using the Complex Calculator Shiny app. The app allows users to perform various mathematical operations on a given number and customize additional operations as needed.
+
+
+## How to Use the App
+
+1. **Enter a Number:**  
+   - Use the textbox to input a numeric value.
+   
+2. **Select an Operation:**  
+   - Choose one operation (square, cube, or double) using the radio buttons.
+
+3. **Additional Operations (Optional):**  
+   - Check any additional operations (reverse, absolute value) you want to apply to the result.
+
+4. **Get the Result:**  
+   - The app will perform the selected operation(s) and display the result in real-time.
+
+
+##  Notes for Users
+
+- **Input Validation:** Ensure to enter a valid numeric value for accurate calculations.
+
+- **Operation Selection:** Choose a mathematical operation to perform on the number.
+
+- **Additional Operations:** Apply optional operations to modify the result.
+
+- **Clearing the Result:** Modify inputs to perform new calculations.
+
+
+##  Conclusion
+
+This presentation provides a comprehensive guide to utilizing the features of the Complex Calculator app. By following the steps outlined here, users can effectively use the app's functionalities for mathematical calculations with ease.
